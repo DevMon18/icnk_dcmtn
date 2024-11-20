@@ -27,4 +27,7 @@ Link: [Admin Panel](https://kioskmanagement.vercel.app)
 
 1.  Same issue: **Admin Side bug on item number 4.**
 
+[Feedback](Feebackhere)
+
+
 
