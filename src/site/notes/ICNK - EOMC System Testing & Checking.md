@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/icnk-eomc-system-testing-and-checking/"}
+{"dg-publish":true,"permalink":"/icnk-eomc-system-testing-and-checking/","tags":["gardenEntry"]}
 ---
 
 # ICNK - EOMC System Testing & Checking
