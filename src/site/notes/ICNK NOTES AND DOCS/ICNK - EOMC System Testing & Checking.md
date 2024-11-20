@@ -19,7 +19,6 @@
 	![Pasted image 20241120101901.png](/img/user/ICNK%20NOTES%20AND%20DOCS/Pasted%20image%2020241120101901.png)
 5.  Whenever the user logs out and logs in with another account, they receive a message stating "incorrect username and password." However, if the browser is refreshed, the user can log in successfully.
 6. The desktop application fails to update labels in real-time when administrators modify text input through the admin interface.
-7. 
 ## Desktop Application (User - Client Side)
 
 1.  Same issue: **Admin Side bug on item number 4.**
