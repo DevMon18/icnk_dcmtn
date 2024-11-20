@@ -6,6 +6,10 @@
 2024-11-20
 
 ## Admin Side
+---
+Link: [Admin Panel](https://kioskmanagement.vercel.app)
+
+
 
 1. When the user **logged out** and when you **click the arrow back (browser)** it will go back to the previous page (Logged in account)
 2. **Accounts** - feature takes too long to load (didn't load/needs browser refresh couple of times)
