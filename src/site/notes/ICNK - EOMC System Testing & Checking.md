@@ -5,7 +5,7 @@
 2024-11-20
 
 ## Admin Side
-link: [kioskmanagement.vercel.app]()
+link: kioskmanagement.vercel.app
 1. When the user **logged out** and when you **click the arrow back (browser)** it will go back to the previous page (Logged in account)
 2. **Accounts** - feature takes too long to load (didn't load/needs browser refresh couple of times)
    ### Screenshot Image
@@ -19,7 +19,5 @@ link: [kioskmanagement.vercel.app]()
 
 
 ## Desktop Application (User - Client Side)
-https://drive.google.com/drive/folders/1[]()7L0AZbk-64CeSUXhBgFyyOpqBLuN81hm
-
 
 1.  Same issue: **Admin Side bug on item number 4.**
